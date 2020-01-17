@@ -1,0 +1,12 @@
+# telegramm
+Mod
+Pkg install git-y
+Git clone https://github.com/damang27/telegram
+Cd telegram
+Cd ltc
+Bash pac.sh
+Exit
+Hit clone https://github.com/damang2/telegram
+Cd telegram
+Cd ltc
+Python main.py 5541987790290
